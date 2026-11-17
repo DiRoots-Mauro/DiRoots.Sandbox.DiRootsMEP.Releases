@@ -1,0 +1,266 @@
+{"0": {
+    "doc": "Danish | Video Tutorials",
+    "title": "DiRootsMEP tutorials and demo videos in Danish.",
+    "content": "If you have created content about DiRootsMEP and you want to see it featured here, drop us an email at info@diroots.com . Coming soon… . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/Danish-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-danish",
+    "relUrl": "/docs/Danish-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-danish"
+  },"1": {
+    "doc": "Danish | Video Tutorials",
+    "title": "Danish | Video Tutorials",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/Danish-tutorials.html",
+    "relUrl": "/docs/Danish-tutorials.html"
+  },"2": {
+    "doc": "DiRootsMEP Tips",
+    "title": "How to use it",
+    "content": "Coming Soon… . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/DiRootsMEP-tips.html#how-to-use-it",
+    "relUrl": "/docs/DiRootsMEP-tips.html#how-to-use-it"
+  },"3": {
+    "doc": "DiRootsMEP Tips",
+    "title": "DiRootsMEP Tips",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/DiRootsMEP-tips.html",
+    "relUrl": "/docs/DiRootsMEP-tips.html"
+  },"4": {
+    "doc": "FAQs",
+    "title": "Frequently Asked Questions about DiRootsMEP",
+    "content": "This section aims to answer the our users’ frequently asked questions. ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/FAQs.html#frequently-asked-questions-about-dirootsmep",
+    "relUrl": "/docs/FAQs.html#frequently-asked-questions-about-dirootsmep"
+  },"5": {
+    "doc": "FAQs",
+    "title": "Why does DiRootsMEP show “No Internet Connection”?",
+    "content": "If you see the error “Please check your internet connection” while using DiRootsMEP, here’s what it means and how to fix it: . Why this happens . | License Verification: DiRootsMEP needs an active internet connection to validate premium subscriptions. | . If your internet is working but the error still appears, it’s usually caused by your firewall, proxy, or antivirus blocking DiRootsMEP/Revit. How to fix it . | Check firewall/antivirus: Make sure Revit/DiRootsMEP is not blocked. | Whitelist these domains: . | *.diroots.com | *.dikeeper.com | dikeeper-prod-euw-api-app-eefmhef2hhevbsgr.westeurope-01.azurewebsites.net | . | Verify your connection: Confirm you can access other online resources while using Revit. | Check DiRootsMEP logs (if the issue persists): | . %localappdata%\\DiRoots\\DiRootsMEP\\Log . Share the log files with our support team for further analysis. Special case: Offline environments . DiRootsMEP does not work fully offline by default. If your organization requires an offline license (e.g., for secure IT environments), please contact DiRoots Support. Offline activation is available only under specific conditions. ✅ After restoring internet access or adjusting your firewall rules, DiRootsMEP should work as expected. ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/FAQs.html#why-does-dirootsmep-show-no-internet-connection",
+    "relUrl": "/docs/FAQs.html#why-does-dirootsmep-show-no-internet-connection"
+  },"6": {
+    "doc": "FAQs",
+    "title": "FAQs",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/FAQs.html",
+    "relUrl": "/docs/FAQs.html"
+  },"7": {
+    "doc": "Russian | Video Tutorials",
+    "title": "DiRootsMEP tutorials and demo videos in Russian.",
+    "content": "If you have created content about DiRootsMEP and you want to see it featured here, drop us an email at info@diroots.com . Coming soon… . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/Russian-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-russian",
+    "relUrl": "/docs/Russian-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-russian"
+  },"8": {
+    "doc": "Russian | Video Tutorials",
+    "title": "Russian | Video Tutorials",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/Russian-tutorials.html",
+    "relUrl": "/docs/Russian-tutorials.html"
+  },"9": {
+    "doc": "Portuguese | Video Tutorials",
+    "title": "DiRootsMEP tutorials and demo videos in Portuguese.",
+    "content": "If you have created content about DiRootsMEP and you want to see it featured here, drop us an email at info@diroots.com . Coming soon… . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/Vietnamese-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-portuguese",
+    "relUrl": "/docs/Vietnamese-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-portuguese"
+  },"10": {
+    "doc": "Portuguese | Video Tutorials",
+    "title": "Portuguese | Video Tutorials",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/Vietnamese-tutorials.html",
+    "relUrl": "/docs/Vietnamese-tutorials.html"
+  },"11": {
+    "doc": "English | Video Tutorials",
+    "title": "DiRootsMEP tutorials and demo videos in English.",
+    "content": "If you have created content about DiRootsMEP and you want to see it featured here, drop us an email at info@diroots.com . Watch the video on YouTube . More tutorials will be added soon. ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/english-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-english",
+    "relUrl": "/docs/english-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-english"
+  },"12": {
+    "doc": "English | Video Tutorials",
+    "title": "English | Video Tutorials",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/english-tutorials.html",
+    "relUrl": "/docs/english-tutorials.html"
+  },"13": {
+    "doc": "System Validation",
+    "title": "System Validation",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/ui-components/formats-tab.html",
+    "relUrl": "/docs/ui-components/formats-tab.html"
+  },"14": {
+    "doc": "System Validation",
+    "title": "Table of contents",
+    "content": ". | Undefined System Type | . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/ui-components/formats-tab.html#table-of-contents",
+    "relUrl": "/docs/ui-components/formats-tab.html#table-of-contents"
+  },"15": {
+    "doc": "System Validation",
+    "title": "Undefined System Type",
+    "content": "This tool identifies and highlights pipes and ducts that have an undefined system type within the active view. It helps ensure all elements are properly categorized, maintaining MEP system consistency and accuracy. Note: the version on the image may not reflect the latest version of DiRootsMEP. ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/ui-components/formats-tab.html#undefined-system-type",
+    "relUrl": "/docs/ui-components/formats-tab.html#undefined-system-type"
+  },"16": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/getting-started.html",
+    "relUrl": "/docs/getting-started.html"
+  },"17": {
+    "doc": "Getting Started",
+    "title": "Table of contents",
+    "content": ". | Download | Install . | Compatibility | Prerequisites | Standard Installation | Silent Installation | . | Uninstall . | Using the installer User Interface | From the control panel | . | Updates . | Updater Settings | . | . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/getting-started.html#table-of-contents",
+    "relUrl": "/docs/getting-started.html#table-of-contents"
+  },"18": {
+    "doc": "Getting Started",
+    "title": "Download",
+    "content": "Download the latest version of DiRootsMEP. ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/getting-started.html#download",
+    "relUrl": "/docs/getting-started.html#download"
+  },"19": {
+    "doc": "Getting Started",
+    "title": "Install",
+    "content": "Compatibility . | Windows 7, 8, 10 and 11. | Revit 2020, 2021, 2022, 2023, 2024, 2025, 2026. | . Prerequisites . | Admin permissions. | . # Remarks - the installation is done per-machine - %ProgramData%\\Autodesk\\Revit\\Addins\\ . Standard Installation . This method is ideal for individuals with admin permissions who want to install DiRootsMEP in one computer. | Run DiRootsMEP installer. | Select the Revit versions and click ‘Install’. | . 3 . Wait for the installation to complete and click ‘Finish’. | Restart your computer. Don’t Skip this step. | . Silent Installation . This method is ideal for IT administrators who want to deploy DiRootsMEP to multiple computers. | Install for all compatible Revit versions. | . # This method will silently install DiRootsMEP for all compatible Revit versions. &lt;installer-name&gt;.exe /i // /qn accept_eula=1 . | Disable automatic check for update (i.e., users won’t be prompt to install updates). | . # In this example, DiRootsMEP will be installed silently with the automatic update feature turned off. &lt;installer-name&gt;.exe /i // /qn accept_eula=1 UPDATER=\"FALSE\" . | Exclude specific Revit versions. | . # In this example DiRootsMEP will NOT be installed for Revit 2020, 2021, and 2022. &lt;installer-name&gt;.exe /i // /qn accept_eula=1 revit2020\"\" revit2021=\"\" revit2022=\"\" . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/getting-started.html#install",
+    "relUrl": "/docs/getting-started.html#install"
+  },"20": {
+    "doc": "Getting Started",
+    "title": "Uninstall",
+    "content": "Using the installer User Interface . | Run DiRootsMEP installer. | Select and click ‘Remove’. | . 3 . Wait for the uninstallation to complete and click ‘Finish’. ### Using the installer silently Uninstall DiRootsMEP without user interaction. ```yaml # This method will remove DiRootsMEP from your computer. &lt;installer-name&gt;.exe /x // /qn . From the control panel . | In the search box on the taskbar, type Control Panel and select it from the results. | Select Programs &gt; Programs and Features. | Press and hold (or right-click) on the program you want to remove and select Uninstall or Uninstall/Change. Then follow the directions on the screen. | . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/getting-started.html#uninstall",
+    "relUrl": "/docs/getting-started.html#uninstall"
+  },"21": {
+    "doc": "Getting Started",
+    "title": "Updates",
+    "content": "DiRootsMEP includes an updater to help you keep it up to date. The updater will: . | notify you whenever a new version is released (the action is triggered on Revit close event). | ask you to install now or to remind you tomorrow. | . Updater Settings . The following Update Options can be tweaked: . | activate automatic updates. | check for updates frequency (the default value is 2 days). | change the downloads folder. | . # Pro Tip for Users By default the automatic updates can't be disabled. To go around it, you can set up the check for updates frequency to 365 days, for example. # Keep in mind that it' recommended to keep your apps updated. Plus, we do not provide support for outdated applications. # Pro Tip for IT Administrators By default the automatic updates can't be disabled. To go around it, there's a configuration file that can be tweaked. # Steps required - go to %programdata%\\DiRoots.DiRootsMEP\\Settings - open the 'updater.ini' file - Search for the line 'CheckFrequency=2' and change the value to 365, for example. # Keep in mind that it' recommended to keep your apps updated. Plus, we do not provide support for outdated applications. Preview dark color scheme . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/getting-started.html#updates",
+    "relUrl": "/docs/getting-started.html#updates"
+  },"22": {
+    "doc": "About",
+    "title": "DiRootsMEP | Autodesk Revit Plugin.",
+    "content": ". DiRootsMEP is an Autodesk Revit Add-in developed to enhance productivity and accuracy in MEP modeling workflows. It provides a growing suite of smart tools designed to automate repetitive tasks, improve model consistency, and simplify MEP project management. ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/#dirootsmep--autodesk-revit-plugin",
+    "relUrl": "/#dirootsmep--autodesk-revit-plugin"
+  },"23": {
+    "doc": "About",
+    "title": "Current Tools",
+    "content": ". | Insulation Tool – for efficient insulation management across MEP systems. | System Validation Tool – for identifying and maintaining consistent MEP system definitions. | . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/#current-tools",
+    "relUrl": "/#current-tools"
+  },"24": {
+    "doc": "About",
+    "title": "More to Come",
+    "content": "DiRoots MEP is continuously evolving. Additional tools and features will be introduced in upcoming releases, expanding its capabilities to cover more MEP automation and quality control workflows within Revit. Download . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/#more-to-come",
+    "relUrl": "/#more-to-come"
+  },"25": {
+    "doc": "About",
+    "title": "About",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/",
+    "relUrl": "/"
+  },"26": {
+    "doc": "Video Tutorials",
+    "title": "Video Tutorials",
+    "content": "In this section you can find video tutorials developed by DiRoots and the individual contributers. A big thank you all the AEC professionals for the time invested in creating content about DiRootsMEP. ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/other-resources.html",
+    "relUrl": "/docs/other-resources.html"
+  },"27": {
+    "doc": "Portuguese | Video Tutorials",
+    "title": "DiRootsMEP tutorials and demo videos in Portuguese.",
+    "content": "If you have created content about DiRootsMEP and you want to see it featured here, drop us an email at info@diroots.com . Coming soon… . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/portuguese-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-portuguese",
+    "relUrl": "/docs/portuguese-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-portuguese"
+  },"28": {
+    "doc": "Portuguese | Video Tutorials",
+    "title": "Portuguese | Video Tutorials",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/portuguese-tutorials.html",
+    "relUrl": "/docs/portuguese-tutorials.html"
+  },"29": {
+    "doc": "Search",
+    "title": "Search",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/search.html",
+    "relUrl": "/docs/search.html"
+  },"30": {
+    "doc": "Search",
+    "title": "Table of contents",
+    "content": ". | TOC | . Just the Docs uses lunr.js to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points: . | Page title | Page content | Page URL | . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/search.html#table-of-contents",
+    "relUrl": "/docs/search.html#table-of-contents"
+  },"31": {
+    "doc": "Search",
+    "title": "Enable search in configuration",
+    "content": "In your site’s _config.yml, enable search: . # Enable or disable the site search # Supports true (default) or false search_enabled: true . Search granularity . Pages are split into sections that can be searched individually. The sections are defined by the headings on the page. Each section is displayed in a separate search result. # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 search.heading_level: 2 . Search previews . A search result can contain previews that show where the search words are found in the specific section. # Maximum amount of previews per search result # Default: 3 search.previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 search.preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 search.preview_words_after: 10 . Search tokenizer . The default is for hyphens to separate tokens in search terms: gem-based is equivalent to gem based, matching either word. To allow search for hyphenated words: . # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words search.tokenizer_separator: /[\\s/]+/ . Display URL in search results . # Display the relative url in search results # Supports true (default) or false search.rel_url: false . Display search button . The search button displays in the bottom right corner of the screen and triggers the search input when clicked. # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) search.button: true . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/search.html#enable-search-in-configuration",
+    "relUrl": "/docs/search.html#enable-search-in-configuration"
+  },"32": {
+    "doc": "Search",
+    "title": "Hiding pages from search",
+    "content": "Sometimes you might have a page that you don’t want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the search_exclude: true parameter to the page’s YAML front matter: . Example . --- layout: default title: Page not found nav_exclude: true search_exclude: true --- . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/search.html#hiding-pages-from-search",
+    "relUrl": "/docs/search.html#hiding-pages-from-search"
+  },"33": {
+    "doc": "Search",
+    "title": "Generate search index when used as a gem",
+    "content": "If you use Just the Docs as a remote theme, you do not need the following steps. If you use the theme as a gem, you must initialize the search by running this rake command that comes with just-the-docs: . $ bundle exec just-the-docs rake search:init . This command creates the assets/js/zzzz-search-data.json file that Jekyll uses to create your search index. Alternatively, you can create the file manually with this content. ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/search.html#generate-search-index-when-used-as-a-gem",
+    "relUrl": "/docs/search.html#generate-search-index-when-used-as-a-gem"
+  },"34": {
+    "doc": "Insulation Tools",
+    "title": "Insulation Tools",
+    "content": "The insulation tools helps users to easily manage, review and apply insulation for pipes and ducts. ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/ui-components/selection-tab.html",
+    "relUrl": "/docs/ui-components/selection-tab.html"
+  },"35": {
+    "doc": "Insulation Tools",
+    "title": "Table of contents",
+    "content": ". | Add Insulation . | Interface Overview | Selection Scope | Add Rules | Preferences | Auto Update | Save and Apply | Expor/Import | . | Hide Insulation | . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/ui-components/selection-tab.html#table-of-contents",
+    "relUrl": "/docs/ui-components/selection-tab.html#table-of-contents"
+  },"36": {
+    "doc": "Insulation Tools",
+    "title": "Add Insulation",
+    "content": "This feature allows users to automatically apply insulation to pipes and ducts based on predefined rules such as size, workset, and comments. Interface Overview . The tool contains two main tabs — Pipes and Ducts, allowing users specify which elements to apply insulation to. Selection Scope . Filtering options available: . Before creating rules, choose the scope of selection . | Whole Model – Applies the rule to all relevant elements in the model. | Active View – Applies the rule to elements visible in the current view. | Current Selection – Applies the rule only to currently selected elements. | . Add Rules . Click Add Rule to define custom rules for insulation application. Note: the version on the image may not reflect the latest version of DiRootsMEP. Preferences . Set preferences those needed to be included in the rule like Size range, System type, Worksets and Custom parameters, from the preferences list. In Custom parameters you can select a predefined or custom parameters from the dropdown menu. Note: the version on the image may not reflect the latest version of DiRootsMEP. Auto Update . Enable Auto Update if you want insulation to be automatically applied to newly created pipes or ducts that match the defined rules. Note: the version on the image may not reflect the latest version of DiRootsMEP. Save and Apply . Once all rules are configured, click Save and Apply to implement them across the Sope you have selected(Whole Model, Active View and Current selection). Note: the version on the image may not reflect the latest version of DiRootsMEP. Expor/Import . Export: Save your insulation rules as a .json file for future reuse or sharing. Note: the version on the image may not reflect the latest version of DiRootsMEP. Import: Load an existing .json file to quickly apply previously defined rules. Note: the version on the image may not reflect the latest version of DiRootsMEP. ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/ui-components/selection-tab.html#add-insulation",
+    "relUrl": "/docs/ui-components/selection-tab.html#add-insulation"
+  },"37": {
+    "doc": "Insulation Tools",
+    "title": "Hide Insulation",
+    "content": "Use this feature to temporarily hide insulation for selected pipes or ducts in the model. Simply select the elements and click Hide Insulation — the insulation will be visually hidden without removing it. Note: the version on the image may not reflect the latest version of DiRootsMEP. ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/ui-components/selection-tab.html#hide-insulation",
+    "relUrl": "/docs/ui-components/selection-tab.html#hide-insulation"
+  },"38": {
+    "doc": "Spanish | Video Tutorials",
+    "title": "DiRootsMEP tutorials and demo videos in Spanish.",
+    "content": "If you have created content about DiRootsMEP and you want to see it featured here, drop us an email at info@diroots.com . Coming soon… . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/spanish-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-spanish",
+    "relUrl": "/docs/spanish-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-spanish"
+  },"39": {
+    "doc": "Spanish | Video Tutorials",
+    "title": "Spanish | Video Tutorials",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/spanish-tutorials.html",
+    "relUrl": "/docs/spanish-tutorials.html"
+  },"40": {
+    "doc": "Tables",
+    "title": "Tables",
+    "content": "Tables are responsive by default, allowing wide tables to have a horizontal scroll to access columns outside of the normal viewport. | head1 | head two | three | . | ok | good swedish fish | nice | . | out of stock | good and plenty | nice | . | ok | good oreos | hmm | . | ok | good zoute drop | yumm | . | head1 | head two | three |:-------------|:------------------|:------| ok | good swedish fish | nice | out of stock | good and plenty | nice | ok | good `oreos` | hmm | ok | good `zoute` drop | yumm | . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/ui-components/tables.html",
+    "relUrl": "/docs/ui-components/tables.html"
+  },"41": {
+    "doc": "Ukrainian | Video Tutorials",
+    "title": "DiRootsMEP tutorials and demo videos in Ukrainian.",
+    "content": "If you have created content about DiRootsMEP and you want to see it featured here, drop us an email at info@diroots.com . Coming soon… . ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/ukrainian-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-ukrainian",
+    "relUrl": "/docs/ukrainian-tutorials.html#dirootsmep-tutorials-and-demo-videos-in-ukrainian"
+  },"42": {
+    "doc": "Ukrainian | Video Tutorials",
+    "title": "Ukrainian | Video Tutorials",
+    "content": " ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/ukrainian-tutorials.html",
+    "relUrl": "/docs/ukrainian-tutorials.html"
+  },"43": {
+    "doc": "User Guide",
+    "title": "User Guide",
+    "content": "Learn how to use DiRootsMEP to speed up your workflows around MEP modelling. ",
+    "url": "/DiRoots.Sandbox.DiRootsMEP.Releases/previews/pr-3/docs/user-guide",
+    "relUrl": "/docs/user-guide"
+  }
+}
