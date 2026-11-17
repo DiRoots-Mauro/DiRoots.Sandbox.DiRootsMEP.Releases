@@ -15,8 +15,8 @@ It provides a growing suite of smart tools designed to automate repetitive tasks
 
 ## Current Tools
 
-- **Insulation Tool** â€“ for efficient insulation management across MEP systems.  
-- **System Validation Tool** â€“ for identifying and maintaining consistent MEP system definitions.
+- **Insulation Tool** Ã¢â‚¬â€œ for efficient insulation management across MEP systems.  
+- **System Validation Tool** Ã¢â‚¬â€œ for identifying and maintaining consistent MEP system definitions.
 
 ## More to Come
 
@@ -24,6 +24,6 @@ DiRoots MEP is continuously evolving. Additional tools and features will be intr
 
 [Download](https://diroots.com/revit-plugins/dirootsmep/){: .btn .btn-di-orange }
 
-Preview flow test DiRootsMEP first commit.
+Preview flow test DiRootsMEP second commit.
 
 ![Preview flow test image]({{ '/assets/images/preview-flow-test.png' | relative_url }})
